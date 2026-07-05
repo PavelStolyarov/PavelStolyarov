@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PavelStolyarov
 - 👀 I’m interested in programming, sport
-- 🌱 I’m currently learning C++, Go
+- 🌱 I’m currently learning C++, Scala
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
